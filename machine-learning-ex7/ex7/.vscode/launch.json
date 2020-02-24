@@ -1,0 +1,19 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "OctaveDebugger",
+            "request": "launch",
+            "name": "Function or file to execute.",
+            "program": "ex7_pca",
+            "octave": "/usr/local/octave/3.8.0/bin/octave-3.8.0",
+            "sourceFolder": "${workspaceFolder}",
+            "autoTerminate": true
+        }
+    ]
+}
+
+octave
